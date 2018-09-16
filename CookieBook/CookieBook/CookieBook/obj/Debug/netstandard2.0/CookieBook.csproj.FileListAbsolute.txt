@@ -1,0 +1,11 @@
+D:\C#\CookieBook\CookieBook\CookieBook\bin\Debug\netstandard2.0\CookieBook.deps.json
+D:\C#\CookieBook\CookieBook\CookieBook\bin\Debug\netstandard2.0\CookieBook.dll
+D:\C#\CookieBook\CookieBook\CookieBook\bin\Debug\netstandard2.0\CookieBook.pdb
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.csprojResolveAssemblyReference.cache
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.csproj.CoreCompileInputs.cache
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.App.xaml.g.cs
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.MainPage.xaml.g.cs
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.AssemblyInfoInputs.cache
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.AssemblyInfo.cs
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.dll
+D:\C#\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.pdb

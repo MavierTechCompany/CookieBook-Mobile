@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieBook.Android", "CookieBook\CookieBook.Android\CookieBook.Android.csproj", "{72CCDAF8-D975-466D-97B9-A09656559AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieBook", "CookieBook\CookieBook\CookieBook.csproj", "{4AD1D2B4-D020-48C3-8563-A1B478B78461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72CCDAF8-D975-466D-97B9-A09656559AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CCDAF8-D975-466D-97B9-A09656559AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CCDAF8-D975-466D-97B9-A09656559AE2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{72CCDAF8-D975-466D-97B9-A09656559AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CCDAF8-D975-466D-97B9-A09656559AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CCDAF8-D975-466D-97B9-A09656559AE2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4AD1D2B4-D020-48C3-8563-A1B478B78461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD1D2B4-D020-48C3-8563-A1B478B78461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD1D2B4-D020-48C3-8563-A1B478B78461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD1D2B4-D020-48C3-8563-A1B478B78461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C7387FA-6482-4DE4-87D1-1C2D3BB73DA9}
+	EndGlobalSection
+EndGlobal
