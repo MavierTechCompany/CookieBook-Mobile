@@ -713,11 +713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\CookieBook\\CookieBook\\CookieBook.Android\\CookieBook.Android.csproj",
+      "projectUniqueName": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook.Android\\CookieBook.Android.csproj",
       "projectName": "CookieBook.Android",
-      "projectPath": "D:\\C#\\CookieBook\\CookieBook\\CookieBook.Android\\CookieBook.Android.csproj",
+      "projectPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook.Android\\CookieBook.Android.csproj",
       "packagesPath": "C:\\Users\\Cyber\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CookieBook\\CookieBook\\CookieBook.Android\\obj\\",
+      "outputPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -739,8 +739,8 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "D:\\C#\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj": {
-              "projectPath": "D:\\C#\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj"
+            "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj": {
+              "projectPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj"
             }
           }
         }

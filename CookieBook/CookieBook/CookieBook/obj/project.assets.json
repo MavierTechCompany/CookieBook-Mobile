@@ -391,11 +391,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\C#\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj",
+      "projectUniqueName": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj",
       "projectName": "CookieBook",
-      "projectPath": "D:\\C#\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj",
+      "projectPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj",
       "packagesPath": "C:\\Users\\Cyber\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\CookieBook\\CookieBook\\CookieBook\\obj\\",
+      "outputPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

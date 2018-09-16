@@ -11,7 +11,7 @@
 namespace CookieBook {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\C#\\CookieBook\\CookieBook\\CookieBook\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
