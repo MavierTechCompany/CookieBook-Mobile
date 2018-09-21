@@ -3,8 +3,9 @@ D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\bin\Debug\netsta
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\bin\Debug\netstandard2.0\CookieBook.pdb
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.csproj.CoreCompileInputs.cache
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.App.xaml.g.cs
-D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.MainPage.xaml.g.cs
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.AssemblyInfoInputs.cache
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.AssemblyInfo.cs
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.pdb
+D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.csprojResolveAssemblyReference.cache
+D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook\obj\Debug\netstandard2.0\CookieBook.View.LoginPage.xaml.g.cs

@@ -50,10 +50,12 @@ D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debu
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Security.SecureString.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Web.Services.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Xml.XPath.XDocument.dll
+D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.ComponentModel.dll
+D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
+D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Reflection.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Threading.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Collections.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Collections.Concurrent.dll
-D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Reflection.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Diagnostics.Debug.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Linq.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Runtime.InteropServices.dll
@@ -62,8 +64,6 @@ D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debu
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.ObjectModel.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Globalization.dll
-D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.ComponentModel.dll
-D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.IO.dll
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\System.Dynamic.Runtime.dll

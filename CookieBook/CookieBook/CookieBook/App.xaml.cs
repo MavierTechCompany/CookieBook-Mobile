@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CookieBook.View;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace CookieBook
 		{
 			InitializeComponent();
 
-			MainPage = new CookieBook.MainPage();
+            MainPage = new LoginPage();
 		}
 
 		protected override void OnStart ()
