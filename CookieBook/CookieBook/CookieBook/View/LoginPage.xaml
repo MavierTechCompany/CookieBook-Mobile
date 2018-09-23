@@ -72,7 +72,7 @@
                         HeightRequest="50"
                         BorderColor="#58A2C6"
                         BorderWidth="1"
-                        BorderRadius="5"/>
+                        BorderRadius="3"/>
 
                     <Button Text="Restore account"
                         FontSize="16"
