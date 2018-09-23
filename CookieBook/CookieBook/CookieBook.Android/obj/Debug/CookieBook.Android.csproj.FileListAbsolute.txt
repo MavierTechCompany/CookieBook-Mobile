@@ -28,7 +28,7 @@ D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debu
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\res\drawable\loginbackground.jpg
+D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\obj\Debug\res\drawable\loginbackground.png
 D:\C#\GitHub\CookieBook-Mobile\CookieBook\CookieBook\CookieBook.Android\bin\Debug\CookieBook.Android.dll
 bin\Debug\FormsViewGroup.dll.mdb
 bin\Debug\Xamarin.Forms.Core.dll.mdb

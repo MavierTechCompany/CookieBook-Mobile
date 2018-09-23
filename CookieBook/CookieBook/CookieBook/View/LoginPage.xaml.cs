@@ -15,6 +15,6 @@ namespace CookieBook.View
 		public LoginPage ()
 		{
 			InitializeComponent ();
-		}
+        }
 	}
 }
