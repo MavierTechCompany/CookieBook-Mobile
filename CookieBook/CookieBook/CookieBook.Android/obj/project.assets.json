@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v8.0": {
+    "MonoAndroid,Version=v9.0": {
       "Xamarin.Android.Support.Animated.Vector.Drawable/25.4.0.2": {
         "type": "package",
         "dependencies": {
@@ -696,7 +696,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v8.0": [
+    "MonoAndroid,Version=v9.0": [
       "CookieBook >= 1.0.0",
       "Xamarin.Android.Support.Design >= 25.4.0.2",
       "Xamarin.Android.Support.v4 >= 25.4.0.2",
@@ -707,8 +707,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cyber\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+    "C:\\Users\\Cyber\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -720,16 +719,12 @@
       "outputPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\Cyber\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid80"
+        "monoandroid90"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -737,7 +732,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid80": {
+        "monoandroid90": {
           "projectReferences": {
             "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj": {
               "projectPath": "D:\\C#\\GitHub\\CookieBook-Mobile\\CookieBook\\CookieBook\\CookieBook\\CookieBook.csproj"
@@ -747,7 +742,7 @@
       }
     },
     "frameworks": {
-      "monoandroid80": {
+      "monoandroid90": {
         "dependencies": {
           "Xamarin.Android.Support.Design": {
             "target": "Package",

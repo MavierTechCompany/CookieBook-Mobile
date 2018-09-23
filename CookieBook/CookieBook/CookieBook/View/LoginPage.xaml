@@ -1,27 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="CookieBook.View.LoginPage"
-             BackgroundImage="loginbackground.png">
+             x:Class="CookieBook.View.LoginPage">
     <ContentPage.Content>
-        <Grid BackgroundColor="Transparent">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="4*"/>
-                <ColumnDefinition Width="*"/>
-            </Grid.ColumnDefinitions>
+        <RelativeLayout>
+            <!-- Background -->
+            <Image Aspect="AspectFill"
+                   Source="loginbackground.png"
+                   RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                   RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}" />
+            
+            <!-- Content -->
+            <Grid BackgroundColor="Transparent"
+                  RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                  RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="4*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
 
-            <Grid.RowDefinitions>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="2*"/>
-                <RowDefinition Height="32"/>
-            </Grid.RowDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
 
-            <StackLayout Grid.Column="1"
+                <StackLayout Grid.Column="1"
                          Grid.Row="0"
                          BackgroundColor="Black"
                          Margin="20,50,20,40">
-                <Label Text="FOOD"
+                    <Label Text="FOOD"
                        TextColor="White"
                        FontSize="60"
                        Margin="0,12,0,0"
@@ -29,42 +38,51 @@
                        VerticalTextAlignment="Center"
                        VerticalOptions="Center"
                        HorizontalOptions="Center"/>
-                <Label Text="LOOT"
+                    <Label Text="LOOT"
                        TextColor="White"
                        FontSize="60"
                        VerticalTextAlignment="Center"
                        HorizontalTextAlignment="Center"/>
-            </StackLayout>
+                </StackLayout>
 
-            <StackLayout Grid.Column="1"
+                <StackLayout Grid.Column="1"
                          Grid.Row="1"
                          Margin="0,30,0,0"
                          BackgroundColor="Transparent">
-                <Entry Placeholder="Login or email"
+                    <Entry Placeholder="Login or email"
                        FontFamily="Arial"
                        Margin="0,0,0,10"/>
-                <Entry Placeholder="Password"
+                    <Entry Placeholder="Password"
                        IsPassword="True"
                        Margin="0,0,0,10"/>
-                
-                <Button Text="Log in"
-                        FontSize="Medium"
+
+                    <Button Text="Log in"
+                        FontSize="Large"
                         TextColor="White"
                         HeightRequest="50"
                         BackgroundColor="#58A2C6"
                         BorderColor="#58A2C6"
                         BorderWidth="1"
                         BorderRadius="5"/>
-                
-                <Button Text="Restore account"
-                        FontSize="Micro"
+
+                    <Button Text="Restore account"
+                        FontSize="16"
                         TextColor="White"
                         FontAttributes="Bold"
                         BackgroundColor="Transparent"
-                        HeightRequest="40"
-                        BorderColor="Transparent"
-                        BorderWidth="0"/>
-            </StackLayout>
-        </Grid>
+                        HeightRequest="45"/>
+                </StackLayout>
+
+                <Button Grid.Column="1"
+                        Grid.Row="2"
+                        Text="Sign up"
+                        FontSize="16"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        BackgroundColor="Transparent"
+                        HeightRequest="45"
+                        Margin="0,0,0,5"/>
+            </Grid>
+        </RelativeLayout>
     </ContentPage.Content>
 </ContentPage>
