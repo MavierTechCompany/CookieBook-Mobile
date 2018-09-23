@@ -23,8 +23,7 @@ namespace CookieBook.Droid.Renderers
         protected override void OnElementChanged(ElementChangedEventArgs<Xamarin.Forms.Button> e)
         {
             base.OnElementChanged(e);
-            var button = this.Control;
-            button.SetAllCaps(false);
+            Control.SetAllCaps(false);
         }
     }
 }

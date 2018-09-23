@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:customControl="clr-namespace:CookieBook.CustomControl"
              x:Class="CookieBook.View.LoginPage">
     <ContentPage.Content>
         <RelativeLayout>
@@ -49,18 +50,26 @@
                          Grid.Row="1"
                          Margin="0,30,0,0"
                          BackgroundColor="Transparent">
-                    <Entry Placeholder="Login or email"
-                       FontFamily="Arial"
-                       Margin="0,0,0,10"/>
-                    <Entry Placeholder="Password"
-                       IsPassword="True"
-                       Margin="0,0,0,10"/>
+                    <customControl:SimpleFlatEntry
+                        Placeholder="Login or email"
+                        FontFamily="Arial"
+                        BackgroundColor="#FAFAFA"
+                        HeightRequest="45"
+                        Opacity="0.7"
+                        Margin="0,0,0,10"/>
+                    <customControl:SimpleFlatEntry
+                        Placeholder="Password"
+                        IsPassword="True"
+                        BackgroundColor="#FAFAFA"
+                        HeightRequest="45"
+                        Opacity="0.7"
+                        Margin="0,0,0,10"/>
 
                     <Button Text="Log in"
                         FontSize="Large"
                         TextColor="White"
-                        HeightRequest="50"
                         BackgroundColor="#58A2C6"
+                        HeightRequest="50"
                         BorderColor="#58A2C6"
                         BorderWidth="1"
                         BorderRadius="5"/>
