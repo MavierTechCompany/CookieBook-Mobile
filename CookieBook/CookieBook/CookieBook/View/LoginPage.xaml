@@ -52,13 +52,14 @@
                          BackgroundColor="Transparent">
                     <customControl:SimpleFlatEntry
                         Placeholder="Login or email"
-                        FontFamily="Arial"
+                        FontFamily="Segoe UI"
                         BackgroundColor="#FAFAFA"
                         HeightRequest="45"
                         Opacity="0.7"
                         Margin="0,0,0,10"/>
                     <customControl:SimpleFlatEntry
                         Placeholder="Password"
+                        FontFamily="Segoe UI"
                         IsPassword="True"
                         BackgroundColor="#FAFAFA"
                         HeightRequest="45"
@@ -67,6 +68,7 @@
 
                     <Button Text="Log in"
                         FontSize="Large"
+                        FontFamily="Segoe UI"
                         TextColor="White"
                         BackgroundColor="#58A2C6"
                         HeightRequest="50"
@@ -88,6 +90,7 @@
                         FontSize="16"
                         TextColor="White"
                         FontAttributes="Bold"
+                        FontFamily="Segoe UI"
                         BackgroundColor="Transparent"
                         HeightRequest="45"
                         Margin="0,0,0,5"/>
