@@ -75,25 +75,24 @@
                         BorderColor="#58A2C6"
                         BorderWidth="1"
                         BorderRadius="3"/>
-
-                    <Button Text="Restore account"
-                        FontSize="16"
-                        TextColor="White"
-                        FontAttributes="Bold"
-                        BackgroundColor="Transparent"
-                        HeightRequest="45"/>
                 </StackLayout>
 
-                <Button Grid.Column="1"
-                        Grid.Row="2"
-                        Text="Sign up"
-                        FontSize="16"
-                        TextColor="White"
-                        FontAttributes="Bold"
-                        FontFamily="Segoe UI"
-                        BackgroundColor="Transparent"
-                        HeightRequest="45"
-                        Margin="0,0,0,5"/>
+                <StackLayout Grid.Column="1" Grid.Row="2">
+                    <Button Text="Restore account"
+                            FontSize="16"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            BackgroundColor="Transparent"
+                            HeightRequest="45"/>
+                    <Image Source="separator.png"
+                           BackgroundColor="Transparent"/>
+                    <Button BackgroundColor="Transparent"
+                            HeightRequest="45"
+                            Margin="0,0,0,5"
+                            Image="registerbutton.png"/>
+                </StackLayout>
+                
+                
             </Grid>
         </RelativeLayout>
     </ContentPage.Content>
