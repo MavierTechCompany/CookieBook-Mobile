@@ -7,7 +7,7 @@
         <RelativeLayout>
             <!-- Background -->
             <Image Aspect="AspectFill"
-                   Source="loginbackground.png"
+                   Source="loginbackground.jpg"
                    RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}"
                    RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}" />
             
@@ -50,13 +50,14 @@
                          Grid.Row="1"
                          Margin="0,30,0,0"
                          BackgroundColor="Transparent">
+
                     <customControl:SimpleFlatEntry
                         Placeholder="Login or email"
                         FontFamily="Segoe UI"
                         BackgroundColor="#FAFAFA"
                         HeightRequest="45"
-                        Opacity="0.7"
-                        Margin="0,0,0,10"/>
+                        Opacity="0.7"/>
+
                     <customControl:SimpleFlatEntry
                         Placeholder="Password"
                         FontFamily="Segoe UI"
@@ -70,9 +71,9 @@
                         FontSize="Large"
                         FontFamily="Segoe UI"
                         TextColor="White"
-                        BackgroundColor="#58A2C6"
+                        BackgroundColor="#DAC26E"
                         HeightRequest="50"
-                        BorderColor="#58A2C6"
+                        BorderColor="#DAC26E"
                         BorderWidth="1"
                         BorderRadius="3"/>
                 </StackLayout>
