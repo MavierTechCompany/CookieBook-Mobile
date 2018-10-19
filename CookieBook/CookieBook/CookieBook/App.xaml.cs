@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using Syncfusion.Licensing;
 using Xamarin.Forms;
 
 namespace CookieBook
@@ -12,9 +12,11 @@ namespace CookieBook
 	{
 		public App ()
 		{
-			InitializeComponent();
+            SyncfusionLicenseProvider.RegisterLicense("MzU4MTFAMzEzNjJlMzMyZTMwSFBFTHdkV0xacjRWaEkvTDV6QmFRL2xnTkZLR1BzZ2tZUDdYNkV1SVYwWT0=;MzU4MTJAMzEzNjJlMzMyZTMwSFFOakdoWkI3c0hQbVAzZHZ6RXk5YU1kNGU4UXRySSt0VW5EQTdiTlhjcz0=");
 
-            MainPage = new LoginPage();
+            InitializeComponent();
+
+            MainPage = new RegisterPage();
 		}
 
 		protected override void OnStart ()
